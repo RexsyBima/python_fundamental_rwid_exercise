@@ -1,6 +1,6 @@
 
 Exercise 1: Print Numbers
-- Use a for loop to print numbers from 1 to 10.
+- Use a for loop to print numbers from 1 to 10. (clue = check range() function)
 
 Exercise 2: Sum of a List
 -Create a list of numbers.

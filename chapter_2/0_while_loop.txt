@@ -6,7 +6,7 @@ Exercise 2: Sum of Numbers
 -Use a while loop to calculate the sum of all numbers from 1 to n.
 -Print the sum.
 
-Exercise 3: Guess the Number
+Exercise 3: Guess the Number # clue import random
 -Generate a random number between 1 and 100.
 -Ask the user to guess the number.
 -Use a while loop to keep asking the user for a guess until they guess the correct number.
