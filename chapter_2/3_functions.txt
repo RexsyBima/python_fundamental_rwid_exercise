@@ -1,0 +1,20 @@
+Exercise 1: Basic Function Definition and Call
+ - Define a function called greet that prints "Hello, World!".
+ - Call the greet function.
+
+Exercise 2: Function with Parameters
+ - Define a function called greet_user that takes a name as a parameter and prints "Hello, [name]!".
+ - Call the greet_user function with your name as the argument.
+
+Exercise 3: Function with Return Value
+- Define a function called square that takes a number as a parameter and returns its square.
+- Call the square function with a numbesr and print the result.
+
+Exercise 4: Function with Multiple Parameters
+- Define a function called add that takes two numbers as parameters and returns their sum.
+- Call the add function with two numbers and print the result.
+
+Exercise 5: Default Parameter Values
+ - Define a function called greet that takes a name as a parameter and prints "Hello, [name]!".
+ - Set the default value of the name parameter to "Guest".
+ - Call the greet function without arguments and with an argument.

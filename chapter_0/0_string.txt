@@ -1,0 +1,28 @@
+Exercise 1: Variable Assignment
+1. Create a variable called name and assign your name to it as a string.
+2. Create a variable called age and assign your age to it as an integer.
+3. Create a variable called height and assign your height to it as a float (e.g., 5.9).
+4. Print the values of all three variables.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 2: String Concatenation
+1. Create a variable called first_name and assign your first name to it.
+2. Create a variable called last_name and assign your last name to it.
+3. Concatenate first_name and last_name to create a new variable called full_name.
+4. Print the value of full_name.
+bonus :
+    Concatenate the first_name and last_name into a new variable but with f string
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 3: String Methods
+1. Create a variable called greeting and assign the string "Hello, World!" to it.
+2. Convert the string to all uppercase letters and print it.
+3. Convert the string to all lowercase letters and print it.
+4. Find the length of the string and print it.
+5. Replace the word "World" with your name and print the result.
+clue :
+https://www.w3schools.com/python/python_ref_string.asp
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 4: String Formatting
+1. Create a variable called city and assign the name of your city to it.
+2. Create a variable called country and assign the name of your country to it.
+3. Use an f-string to create a sentence that says "I live in [city], [country]." and print it.
+--------------------------------------------------------------------------------------------------------------------------------------

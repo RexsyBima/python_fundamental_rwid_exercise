@@ -1,0 +1,16 @@
+Exercise 1: Basic Try-Except
+- Write a program that asks the user to enter a number.
+- Use a try block to convert the input to an integer.
+- Use an except block to handle the error if the input is not a valid integer.
+- Print an appropriate message in both cases.
+
+Exercise 2: Division with Exception Handling
+- Write a program that asks the user to enter two numbers.
+- Use a try block to divide the first number by the second.
+- Use two except blocks to handle the errors if the second number is zero or if either input is not a valid number.
+- Print appropriate messages for each case.
+
+Exercise 3: Retry on Exception
+- Write a program that repeatedly asks the user to enter a valid number until they enter one correctly.
+- Use a try block to convert the input to an integer.
+- Use an except block to handle the error if the input is not a valid integer and prompt the user to try agai- n.

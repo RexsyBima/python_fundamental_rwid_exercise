@@ -1,0 +1,35 @@
+Exercise 1: Check Membership in a List
+- Create a list of colors called colors with the elements: "red", "green", "blue".
+- Ask the user to enter a color.
+- Use the in operator to check if the entered color is in the colors list.
+- Print an appropriate message.
+
+Exercise 2: Check Membership in a String
+Create a string called sentence with the value "Python programming is fun".
+Ask the user to enter a word.
+Use the in operator to check if the entered word is in the sentence.
+Print an appropriate message.
+
+Exercise 3: Check Membership in a Dictionary
+Create a dictionary called students with the following key-value pairs: "Alice": 85, "Bob": 90, "Charlie": 78.
+Ask the user to enter a name.
+Use the in operator to check if the entered name is a key in the students dictionary.
+Print an appropriate message.
+
+Exercise 4: Check Membership in a Set
+Create a set of numbers called numbers with the elements: 1, 2, 3, 4, 5.
+Ask the user to enter a number.
+Use the in operator to check if the entered number is in the numbers set.
+Print an appropriate message.
+
+Exercise 5: Check Substring in a String
+Create a string called text with the value "Hello, welcome to Python programming!".
+Ask the user to enter a substring.
+Use the in operator to check if the entered substring is in the text.
+Print an appropriate message.
+
+Exercise 6: Check Multiple Memberships
+Create a list of fruits called fruits with the elements: "apple", "banana", "cherry".
+Ask the user to enter a fruit.
+Use the in operator to check if the entered fruit is in the fruits list and if "banana" is also in the list.
+Print an appropriate message.

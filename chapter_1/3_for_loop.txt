@@ -7,10 +7,10 @@ Exercise 2: Sum of a List
 -Use a for loop to calculate the sum of all numbers in the list.
 -Print the sum.
 
-Exercise 4: Print Each Character
+Exercise 3: Print Each Character
 - Ask the user for a string and store it in a variable called user_string.
 - Use a for loop to print each character of the string on a new line.
 
-Exercise 5: Find Even Numbers
+Exercise 4: Find Even Numbers
 - Create a list of numbers.
 - Use a for loop to find and print all even numbers in the lis

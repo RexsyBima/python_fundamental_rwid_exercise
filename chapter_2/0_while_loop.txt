@@ -1,0 +1,18 @@
+Exercise 1: Print Numbers
+-Use a while loop to print numbers from 1 to 10.
+
+Exercise 2: Sum of Numbers
+-Ask the user for a positive integer n.
+-Use a while loop to calculate the sum of all numbers from 1 to n.
+-Print the sum.
+
+Exercise 3: Guess the Number
+-Generate a random number between 1 and 100.
+-Ask the user to guess the number.
+-Use a while loop to keep asking the user for a guess until they guess the correct number.
+-Give hints if the guess is too high or too low.
+
+Exercise 4: Password Validation
+-Ask the user to enter a password.
+-Use a while loop to keep asking for the password until the user enters "password123".
+-Print "Access granted" when the correct password is entered.

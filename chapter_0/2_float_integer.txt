@@ -1,0 +1,34 @@
+Exercise 1: Basic Operations
+1. Create two integer variables, num1 and num2, and assign them values.
+2. Create two float variables, float1 and float2, and assign them values.
+3. Perform and print the results of the following operations for both integer and float variables:
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 2: Integer Division and Modulus
+1. Create two integer variables, a and b, and assign them values.
+2. Perform and print the results of the following operations:
+    -Integer division (using //)
+    -Modulus (using %)
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 3: Float Division and Precision
+1. Create two float variables, x and y, and assign them values.
+2. Perform and print the result of dividing x by y.
+3. Round the result to 2 decimal places and print it.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 4: Type Conversion between Float and Integer
+1. Create a float variable called num_float and assign it a value.
+2. Convert num_float to an integer and print the result.
+3. Create an integer variable called num_int and assign it a value.
+4. Convert num_int to a float and print the result.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 5: Combining Integers and Floats in Expressions
+1. Create an integer variable called a and assign it a value.
+2. Create a float variable called b and assign it a value.
+3. Perform and print the results of the following operations:
+    - Addition
+    - Subtraction
+    - Multiplication
+    - Division

@@ -1,0 +1,32 @@
+Exercise 1: Basic Data Conversion
+1. Create a variable called num_str and assign the string "123" to it.
+2. Convert num_str to an integer and store the result in a variable called num_int.
+3. Convert num_str to a float and store the result in a variable called num_float.
+4. Print num_int and num_float.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 2: Float to Integer Conversion
+1. Create a variable called num_float and assign the float 456.789 to it.
+2. Convert num_float to an integer and store the result in a variable called num_int.
+3. Print num_int and observe what happens to the decimal part.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 3: Integer to String Conversion
+Create a variable called age and assign your age to it as an integer.
+Convert age to a string and store the result in a variable called age_str.
+Print a sentence that says "I am [age] years old." using the age_str variable.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 4: String to Float Conversion with Error Handling
+1. Create a variable called price_str and assign the string "19.99" to it.
+2. Convert price_str to a float and store the result in a variable called price_float.
+3. Print price_float.
+4. Try converting a string that is not a valid float (e.g., "abc") to a float and handle the error gracefully using a try-except block.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 5: Boolean Conversion
+1. Create a variable called true_str and assign the string "True" to it.
+2. Create a variable called false_str and assign the string "False" to it.
+3. Convert true_str and false_str to their respective boolean values and print the results.
+4. Create a variable called num and assign it any non-zero integer value. Convert num to a boolean and print the result.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 6: List to String Conversion
+Create a list called fruits with the following elements: "apple", "banana", and "cherry".
+Convert the list to a string where the elements are joined by commas, and store the result in a variable called fruits_str.
+Print fruits_str.
