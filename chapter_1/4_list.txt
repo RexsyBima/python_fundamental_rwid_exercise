@@ -1,0 +1,32 @@
+Exercise 1: Creating and Accessing Lists
+ - Create a list called fruits containing the following elements: "apple", "banana", "cherry".
+ - Print the first and last elements of the list.
+
+Exercise 2: List Length
+- Create a list called numbers with the elements: 1, 2, 3, 4, 5.
+- Print the length of the list.
+
+Exercise 3: List Slicing
+- Create a list called colors with the elements: "red", "green", "blue", "yellow", "purple".
+- Print the first three elements using list slicing.
+- Print the last two elements using list slicing.
+
+Exercise 4: Modifying Lists
+- Create a list called animals with the elements: "cat", "dog", "rabbit".
+- Change the second element to "hamster".
+- Add a new element "goldfish" to the end of the list.
+- Print the modified list.
+
+Exercise 5: Removing Elements from Lists
+- Create a list called cities with the elements: "New York", "Los Angeles", "Chicago", "Houston", "Phoenix".
+- Remove "Chicago" from the list.
+- Print the list after removal.
+
+Exercise 6: List Comprehensions
+- Create a list called numbers with the elements: 1, 2, 3, 4, 5.
+- Use a list comprehension to create a new list called squares that contains the squares of each number in numbers.
+- Print the squares list.
+
+Exercise 7: Iterating Over Lists
+- Create a list called students with the elements: "Alice", "Bob", "Charlie".
+- Use a for loop to print each student's name.

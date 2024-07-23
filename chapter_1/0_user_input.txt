@@ -1,0 +1,21 @@
+Exercise 1: Basic User Input
+- Ask the user for their name and store it in a variable called name.
+- Print a greeting that includes the user's name.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 2: Simple Calculator
+- Ask the user for two numbers and store them in variables num1 and num2.
+- Convert the input strings to floats.
+- Perform addition, subtraction, multiplication, and division on the two numbers.
+- Print the results of each operation.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 3: Age Calculation
+- Ask the user for the current year and store it in a variable called current_year.
+- Ask the user for their birth year and store it in a variable called birth_year.
+- Convert the input strings to integers.
+- Calculate the user's age and print it.
+--------------------------------------------------------------------------------------------------------------------------------------
+Exercise 4: Temperature Converter
+- Ask the user for a temperature in Celsius and store it in a variable called celsius.
+- Convert the input string to a float.
+- Convert the temperature to Fahrenheit using the formula.
+- Print the temperature in Fahrenheit.

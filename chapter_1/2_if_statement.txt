@@ -1,0 +1,31 @@
+1. Basic If Statement
+   - Ask the user for their age and store it in a variable called age.
+   - If the user is 18 or older, print "You are an adult."
+   - If the user is younger than 18, print "You are a minor."
+
+2. Even or Odd
+   - Ask the user for a number and store it in a variable called number.
+   - Use an if statement to check if the number is even or odd.
+   - Print "The number is even." if it is even, and "The number is odd." if it is odd.
+
+3. Positive, Negative, or Zero
+   - Ask the user for a number and store it in a variable called number.
+   - Use an if statement to check if the number is positive, negative, or zero.
+   - Print an appropriate message for each case.
+
+4. Grade Classification
+   - Ask the user for their grade (0-100) and store it in a variable called grade.
+   - Use if statements to classify the grade into categories:
+     - 90-100: "A"
+     - 80-89: "B"
+     - 70-79: "C"
+     - 60-69: "D"
+     - Below 60: "F"
+   - Print the grade category.
+
+5. Login System
+   - Ask the user for a username and password.
+   - Check if the username is "admin" and the password is "password123".
+   - If both are correct, print "Login successful."
+   - If either is incorrect, print "Login failed."
+   - Bonus: Add a confirm password feature, so if the password and confirm password are equal, then login.

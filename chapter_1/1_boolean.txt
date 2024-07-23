@@ -1,0 +1,25 @@
+Exercise 1: Boolean Variables
+ - Create two boolean variables, is_raining and is_sunny.
+ - Assign True to is_raining and False to is_sunny.
+ - Print both variables.
+
+Exercise 2: Boolean Expressions
+ - Ask the user for two numbers, num1 and num2.
+ - Create and print the following boolean expressions:
+    - num1 is greater than num2
+    - num1 is equal to num2
+    - num1 is less than or equal to num2
+
+Exercise 3: Boolean Operators
+- Create two boolean variables, a and b, and assign them values.
+- Create and print the following boolean expressions using a and b:
+    - a and b
+    - a or b
+    - not a
+
+Exercise 4: Logical Comparisons
+- Ask the user for their age and store it in a variable called age.
+- Use boolean expressions to check if:
+    - The age is between 13 and 19 (inclusive) (i.e., a teenager).
+    - The age is 65 or older (i.e., a senior citizen).
+- Print appropriate messages for each case.
