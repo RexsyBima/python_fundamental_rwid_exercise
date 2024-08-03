@@ -1,0 +1,21 @@
+Exercise 1: Writing and Saving a Text File
+- Define a function called write_to_file that takes two parameters: filename and content. The function should write the content to the file specified by filename.
+- Call the write_to_file function with a filename and some content.
+
+Exercise 2: Appending to a Text File
+- Define a function called append_to_file that takes two parameters: filename and content. The function should append the content to the file specified by filename.
+- Call the append_to_file function with a filename and some content to append.
+clue = https://www.geeksforgeeks.org/python-append-to-a-file/
+
+Exercise 3: Reading from a Text File
+- Define a function called read_from_file that takes one parameter: filename. The function should read and return the content of the file specified by filename.
+- Call the read_from_file function with a filename and print the content of the file.
+
+xercise 4: Writing Multiple Lines to a Text File
+- Define a function called write_lines_to_file that takes two parameters: filename and lines. The lines parameter should be a list of strings, each representing a line of text. The function should write each line to the file specified by filename, with each line on a new line.
+- Call the write_lines_to_file function with a filename and a list of lines.
+
+Exercise 5: Reading Lines from a Text File
+- Define a function called read_lines_from_file that takes one parameter: filename. The function should read and return the lines of the file specified by filename as a list of strings.
+- Call the read_lines_from_file function with a filename and print each line from the list of lines.
+

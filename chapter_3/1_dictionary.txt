@@ -1,0 +1,42 @@
+for this exercise, i'd highly recommend to check out the python-cheatsheet github repository and check on chapter 2 dictionary for the resource
+https://github.com/RexsyBima/python-cheatsheets-rwid
+
+Exercise 1: Creating a dictionary
+- Create a dictionary at which they have key:value pairs of name, age, occupation, birthofdate, and hobbies
+- Print the dictionary
+
+Exercise 2: Building a dictionary from empty dictionary 
+- Create an empty dictionary called student. 
+- Add the following key-value pairs to the student dictionary:
+    Name: 'John Doe'
+    Age: 20
+    Major: 'Computer Science'
+- Print the student dictionary.
+
+Exercise 3: Accessing Dictionary Values
+- Using the student dictionary from Exercise 2, print the value associated with the key 'Name'.
+- Print the value associated with the key 'Age'.
+
+Exercise 4: Modifying Dictionary Values
+- Update the value of the 'Age' key to 21 in the student dictionary.
+- Print the updated student dictionary.
+
+Exercise 5: Deleting Dictionary Items
+- Remove the key-value pair with the key 'Major' from the student dictionary.
+- Print the updated student dictionary.
+
+Exercise 6: Iterating Through a Dictionary
+- Using a for loop, iterate through the student dictionary and print each key and value pair in the format "key: value".
+
+Exercise 7: Checking for Keys in a Dictionary
+- Check if the key 'Name' exists in the student dictionary. Print "Key exists" if it does, otherwise print "Key does not exist".
+- Check if the key 'Major' exists in the student dictionary. Print "Key exists" if it does, otherwise print "Key does not exist".
+
+Exercise 8: Nested Dictionaries
+- Create a dictionary called classroom with the following nested dictionaries:
+    Student1: {'Name': 'Alice', 'Age': 22, 'Major': 'Mathematics'}
+    Student2: {'Name': 'Bob', 'Age': 24, 'Major': 'Physics'}
+- Print the classroom dictionary.
+- Print the 'Major' of student1
+- Print the 'Age' of student 2
+

@@ -1,0 +1,24 @@
+ktp = {"NIK" : 1234567890,
+       "Nama" : "Remote W. Indonesia",
+       "TempatLahir" : "Banyumas",
+       "TanggalLahir" : "10-02-1999",
+       "JenisKelamin" : "Laki-Laki",
+       "Alamat" : {"Desa" : "Wisata Tanjung",
+                   "RT" : 4,
+                   "RW" : 8,
+                   "Kecamatan" : "Purwokerto"},
+       "Agama" : "Islam",
+       "isMenikah" : False,
+       "isBekerja" : True,
+       "isWNI" : True,
+       "isValidforLife" : True,
+       "Hobi" : ["Memancing", "Membaca", "Belajar"]
+       }
+
+From the above dictionary, stores every value from keys inside the KTP into a variable each
+ex 
+NIK = ktp['NIK'] and so on...
+
+then, construct all the variable into one sentence, for an ex
+"My name is Remote W. Indonesia, i was born in Banyumas, 10-02-1999. I am a Laki-Laki, Islam is my religion, currently not Married but working..." and so on
+ 
